@@ -3,6 +3,17 @@ title: Home
 layout: home
 nav_order: 1
 ---
+
+Hi, I'm Jas. I like to study math. You may have seen me featured on Women's Net for the March 2024 10K Start Up Grant, or maybe you've seen me on YouTube or maybe we go to or went to the same school. Either way, welcome to jtpmath. 
+
+I am pursuing a PhD in Mathematics (somewhere) and I wanted to share my knowledge of mathematics with you. 
+
+Here you will find course notes for most of the grad classes I've taken so far. I solve problems online on youtube and I usually can be found livestreaming on Twitch. 
+
+If you have any questions, feel free to ask! 
+
+
+
  <div class="box"><center><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-BRgID-3JsM?si=NS9ENT4uy4nOJayE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br><br>
 
