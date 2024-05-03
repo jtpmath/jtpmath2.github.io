@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Category Theory
+title: Categories
 nav_order: 4
 ---
