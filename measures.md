@@ -19,4 +19,4 @@ If you can talk about space bewteen points (distance) then, you can talk about t
 
 But between you and me, something amazing happened... 
 
-And now we're all taking up space: mass. 
+Now we're all taking up space.
