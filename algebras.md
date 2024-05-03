@@ -5,6 +5,7 @@ nav_order: 3
 ---
 # Algebras
 
+##Algebra: Chapter 0
 
 If you thought measures were confusing. It gets worse. 
 
@@ -15,5 +16,3 @@ I'm not going to pretend that algebra is any easier. It's actually definitely no
 But construct a short exact sequence and then measure how far off you are from being exact... 
 
 Wait. I shouldn't be talking about complex analysis yet. 
-
-Point of Reference: Algebra Chapter 0
