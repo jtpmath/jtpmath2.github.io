@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Algebra
+title: Algebras
 nav_order: 3
 ---
