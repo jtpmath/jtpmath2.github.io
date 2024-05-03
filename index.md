@@ -12,13 +12,11 @@ Here you will find course notes for most of the grad classes I've taken so far. 
 
 If you have any questions, feel free to ask! 
 
-
-
- <div class="box"><center><br>
+ <div class="box"><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-BRgID-3JsM?si=NS9ENT4uy4nOJayE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br><br>
 
 For the next few months we're reviewing <a href=" ">Algebra Chapter 0</a>, <a href="">Introduction to Measure Theory</a>, <a href="">An Epsilon of Room.</a>
-        </center>
+        
   <div class="text-center mt-5">
 <!-- Social Media Icons by NiftyButtons https://niftybuttons.com --><div style="display: flex; flex-wrap:wrap; align-items: center; justify-content: center;"><a href="https://facebook.com/jtpmathfacebook" target="_blank" rel="noopener noreferrer" style="text-decoration:none;border:0;width:23px;height:23px;padding:2px;margin:5px;color:#ff6584;border-radius:50%;background-color:#3f3d56;"><svg class="niftybutton-facebook" style="display:block;fill:currentColor" data-donate="true" data-tag="fac" data-name="Facebook" viewBox="0 0 512 512" preserveAspectRatio="xMidYMid meet"><title>Facebook social icon</title>
     <path d="M211.9 197.4h-36.7v59.9h36.7V433.1h70.5V256.5h49.2l5.2-59.1h-54.4c0 0 0-22.1 0-33.7 0-13.9 2.8-19.5 16.3-19.5 10.9 0 38.2 0 38.2 0V82.9c0 0-40.2 0-48.8 0 -52.5 0-76.1 23.1-76.1 67.3C211.9 188.8 211.9 197.4 211.9 197.4z"></path>
