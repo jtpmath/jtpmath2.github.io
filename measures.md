@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Measure Theory
-nav_bar: true
+nav_order: 2
 ---
