@@ -17,7 +17,7 @@ If you have any questions, feel free to ask!
  <div class="box"><center><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-BRgID-3JsM?si=NS9ENT4uy4nOJayE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br><br>
 
-Welcome to jtpmath. The goal here is to solve problems in mathematics. For the next few months we're reviewing <a href=" ">Algebra Chapter 0</a>, <a href="">Introduction to Measure Theory</a>, <a href="">An Epsilon of Room.</a>
+For the next few months we're reviewing <a href=" ">Algebra Chapter 0</a>, <a href="">Introduction to Measure Theory</a>, <a href="">An Epsilon of Room.</a>
         </center>
   <div class="text-center mt-5">
 <!-- Social Media Icons by NiftyButtons https://niftybuttons.com --><div style="display: flex; flex-wrap:wrap; align-items: center; justify-content: center;"><a href="https://facebook.com/jtpmathfacebook" target="_blank" rel="noopener noreferrer" style="text-decoration:none;border:0;width:23px;height:23px;padding:2px;margin:5px;color:#ff6584;border-radius:50%;background-color:#3f3d56;"><svg class="niftybutton-facebook" style="display:block;fill:currentColor" data-donate="true" data-tag="fac" data-name="Facebook" viewBox="0 0 512 512" preserveAspectRatio="xMidYMid meet"><title>Facebook social icon</title>
