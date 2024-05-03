@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Complex Analysis
+title: Complex
 nav_order: 3
 ---
