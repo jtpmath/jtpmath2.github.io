@@ -5,7 +5,7 @@ nav_order: 3
 ---
 # Algebras
 
-##Algebra: Chapter 0
+## Algebra: Chapter 0
 
 If you thought measures were confusing. It gets worse. 
 
