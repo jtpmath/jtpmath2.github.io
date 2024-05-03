@@ -13,7 +13,7 @@ Here you will find course notes for most of the grad classes I've taken so far. 
 If you have any questions, feel free to ask! 
 
  <div class="box"><br>
-<iframe width="360" src="https://www.youtube.com/embed/-BRgID-3JsM?si=NS9ENT4uy4nOJayE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br><br>
+<iframe width="330" src="https://www.youtube.com/embed/-BRgID-3JsM?si=NS9ENT4uy4nOJayE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br><br>
 
 For the next few months we're reviewing <a href=" ">Algebra Chapter 0</a>, <a href="">Introduction to Measure Theory</a>, <a href="">An Epsilon of Room.</a>
         
