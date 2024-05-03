@@ -3,7 +3,7 @@ layout: default
 title: Algebras
 nav_order: 3
 ---
-
+#Algebras
 
 If you thought measures were confusing. It gets worse. 
 
