@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Measure Theory
+title: Measures
 nav_order: 2
 ---
