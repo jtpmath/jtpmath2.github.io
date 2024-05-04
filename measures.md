@@ -26,4 +26,6 @@ Now we're all taking up space.
 
 ## Tonelli's Theorems, Limits and Colimits
 
+~~Tonelli's theorem says that the morphism mu commutes with colimits (cartesian product of measure spaces).~~
+
 
