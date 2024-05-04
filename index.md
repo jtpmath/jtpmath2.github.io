@@ -8,7 +8,7 @@ Hi, I'm Jas. I like to study math. You may have seen me featured on <a href="htt
 
 I am completing a Masters of Mathematics at Virginia Tech and I wanted to share my knowledge of mathematics with you. 
 
-Here you will find course notes for most of the classes I've taken so far. I record audio lectures on youtube and I usually can be found livestreaming on Twitch. 
+Here you will find course notes for most of the classes I've taken so far. I explore solutions on youtube and I usually can be found livestreaming on Twitch. 
 
 If you have any questions, feel free to ask! 
 
