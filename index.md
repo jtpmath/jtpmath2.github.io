@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-Hi, I'm Jas. I like to study math. You may have seen me featured on Women's Net for the March 2024 10K Start Up Grant, or maybe you've seen me on YouTube or maybe we go to or went to the same school. Either way, welcome to jtpmath. 
+Hi, I'm Jas. I like to study math. You may have seen me featured on <a href="https://ambergrantsforwomen.com/february-2024-startup-grant-awarded-to-jtpmath/">Women's Net for the March 2024 10K Start Up Grant</a>, or maybe you've seen me on YouTube or maybe we go to or went to the same school. Either way, welcome to jtpmath. 
 
 I am retaking the Masters of Mathematics at Virginia Tech and I wanted to share my knowledge of mathematics with you. 
 
