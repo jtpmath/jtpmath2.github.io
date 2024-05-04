@@ -22,3 +22,8 @@ If you can talk about space bewteen points (distance) then, you can talk about t
 But between you and me, something amazing happened... 
 
 Now we're all taking up space.
+
+
+## Tonelli's Theorems, Limits and Colimits
+
+
