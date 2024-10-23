@@ -4,17 +4,6 @@ layout: home
 nav_order: 1
 ---
 
-Hi, I'm Jas. I like to study math. You may have seen me featured on <a href="https://ambergrantsforwomen.com/february-2024-startup-grant-awarded-to-jtpmath/">Women's Net for the March 2024 10K Start Up Grant</a>, or maybe you've seen me on YouTube or maybe we go to or went to the same school. Either way, welcome to jtpmath. 
-
-I am completing a Mathematics Degree at Virginia Tech and I wanted to share. 
-
-Here you will find course notes for most of the classes I've taken so far. I explore concepts on youtube and take online private lessons. 
-
-If you have any questions, feel free to ask! 
-
- <div class="box"><br>
-<iframe width="330" src="https://www.youtube.com/embed/-BRgID-3JsM?si=NS9ENT4uy4nOJayE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br><br>
-
 For the next few months we're reviewing <a href=" ">Algebra Chapter 0</a>, <a href="">Introduction to Measure Theory</a>, <a href="">An Epsilon of Room.</a>
         
   <div class="text-center mt-5">
