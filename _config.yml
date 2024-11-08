@@ -22,11 +22,12 @@ defaults:
     values:
       layout: "default"
       parent: "Blog"
-
-gems:
+      
+plugins:
   - jekyll-paginate
 
-paginate: 5
+paginate: 5  # Number of posts per page
 paginate_path: "/blog/page:num"
+
 
 
