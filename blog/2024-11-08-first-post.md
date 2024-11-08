@@ -14,3 +14,10 @@ This is the full content of your first post.
 
 ---
 
+<script src="https://utteranc.es/client.js"
+    repo="jtpmath/jtpmath.github.io"
+    issue-term="pathname"
+    theme="github-light"
+    crossorigin="anonymous"
+    async>
+</script>
