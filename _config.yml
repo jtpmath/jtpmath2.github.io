@@ -21,5 +21,6 @@ defaults:
       path: "blog"
     values:
       layout: "default"
+      parent: "Blog"
 
 
