@@ -1,0 +1,21 @@
+.post-preview {
+    border-bottom: 1px solid #eaeaea;
+    padding: 15px 0;
+    margin: 20px 0;
+}
+
+.post-preview h2 {
+    font-size: 1.5em;
+    margin-bottom: 5px;
+}
+
+.post-preview .date {
+    color: #888;
+    font-size: 0.9em;
+    margin-bottom: 10px;
+}
+
+.post-preview .excerpt {
+    font-size: 1em;
+    color: #333;
+}
