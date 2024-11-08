@@ -29,5 +29,5 @@ Welcome to my blog! Scroll down to read each post.
 
 {{ post.excerpt }}
 
-[Read more]({{ post.url | relative_url }})
+[Go to Post for Comments]({{ post.url | relative_url }})
 {% endfor %}
