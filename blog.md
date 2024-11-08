@@ -1,6 +1,6 @@
 ---
-title: "Blog"
 layout: default
+title: Blog
 nav_order: 6
 ---
 
