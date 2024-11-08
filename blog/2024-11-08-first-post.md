@@ -7,7 +7,8 @@ permalink: /blog/:title/
 ---
 
 <div class="post">
-# First Blog Post
+## {{ post.title }}
+**Date:** {{ post.date | date: "%B %d, %Y" }}
 This is the full content of your first post.
 </div>
 
