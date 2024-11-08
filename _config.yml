@@ -10,3 +10,9 @@ aux_links:
 logo: "/assets/watermark-01.jpg"
 
 favicon_ico: "/assets/logo-official.jpg"
+
+collections:
+  blog:
+    output: true
+    permalink: /blog/:path/
+
