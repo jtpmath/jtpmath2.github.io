@@ -15,7 +15,20 @@
     margin-bottom: 10px;
 }
 
-.post-preview .excerpt {
-    font-size: 1em;
-    color: #333;
+
+.post {
+    padding: 20px;
+    border-bottom: 1px solid #eaeaea;
+    margin-bottom: 20px;
+}
+
+.post h2 {
+    font-size: 1.5em;
+    margin-bottom: 5px;
+}
+
+.post .date {
+    color: #888;
+    font-size: 0.9em;
+    margin-bottom: 10px;
 }
