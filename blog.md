@@ -12,7 +12,7 @@ Welcome to my blog! Scroll down to read each post.
 ## [{{ post.title }}]({{ post.url | relative_url }})
 **Date:** {{ post.date | date: "%B %d, %Y" }}
 
-{{ post.excerpt }}
+{{ post.content }}
 
 [Read more]({{ post.url | relative_url }})
 {% endfor %}
