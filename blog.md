@@ -1,7 +1,7 @@
 ---
 title: "Blog"
 layout: default
-nav_order: 2
+nav_order: 6
 has_children: true
 ---
 
@@ -14,8 +14,6 @@ Welcome to my blog! Scroll down to read each post.
 **Date:** {{ post.date | date: "%B %d, %Y" }}
 
 {{ post.content }}
-
-[Read more]({{ post.url | relative_url }})
 {% endfor %}
 
 {% if paginator.previous_page %}
@@ -24,11 +22,3 @@ Welcome to my blog! Scroll down to read each post.
 {% if paginator.next_page %}
   [Next]({{ paginator.next_page_path | relative_url }})
 {% endif %}
-{% for post in site.blog %}
-## [{{ post.title }}]({{ post.url | relative_url }})
-**Date:** {{ post.date | date: "%B %d, %Y" }}
-
-{{ post.excerpt }}
-
-[Go to Post for Comments]({{ post.url | relative_url }})
-{% endfor %}
