@@ -6,5 +6,10 @@ layout: post
 permalink: /blog/:title/
 ---
 
+<div class="post">
 # First Blog Post
 This is the full content of your first post.
+</div>
+
+---
+
