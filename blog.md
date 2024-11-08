@@ -1,12 +1,18 @@
 ---
 title: "Blog"
-has_children: true
+layout: default
 nav_order: 2
 ---
 
 # Blog
 
-Welcome to my blog! Here are my latest posts:
+Welcome to my blog! Scroll down to read each post.
 
-- [First Post](blog/2024-11-08-first-post.md)
-- [Second Post](blog/2024-11-15-second-post.md)
+{% for post in site.blog %}
+## [{{ post.title }}]({{ post.url | relative_url }})
+**Date:** {{ post.date | date: "%B %d, %Y" }}
+
+{{ post.excerpt }}
+
+[Read more]({{ post.url | relative_url }})
+{% endfor %}
