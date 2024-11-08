@@ -1,4 +1,3 @@
-
 ---
 title: "Title of Your Blog Post"
 layout: default
