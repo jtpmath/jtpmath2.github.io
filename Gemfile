@@ -1,12 +1,10 @@
 source 'https://rubygems.org'
 
-gem "jekyll", "~> 4.3.3" # installed by `gem jekyll`
-# gem "webrick"        # required when using Ruby >= 3 and Jekyll <= 4.2.2
+# Specify Jekyll version
+gem "jekyll", "~> 4.3.3"
 
-gem "just-the-docs", "0.8.2" # pinned to the current release
-# gem "just-the-docs"        # always download the latest release
+# Just the Docs theme pinned to version 0.8.2
+gem "just-the-docs", "0.8.2"
 
-git add Gemfile Gemfile.lock
-git commit -m "Add jekyll-paginate to Gemfile"
-git push
-
+# Pagination support for Jekyll
+gem "jekyll-paginate"
