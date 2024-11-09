@@ -6,6 +6,7 @@ has_children: true
 permalink: /blog/
 ---
 
+
 # Blog
 
 Welcome to my blog! Scroll down to read each post.
