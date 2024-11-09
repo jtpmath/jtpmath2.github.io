@@ -1,6 +1,7 @@
 ---
 title: "Blog"
 layout: default
+url: "/blog/"
 nav_order: 6
 has_children: true
 permalink: /blog/
