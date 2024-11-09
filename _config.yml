@@ -29,7 +29,11 @@ defaults:
     values:
       layout: default
       nav_order: 6  # Adjust this order as needed
-
+      
+nav:
+  - title: "Blog"
+    url: "/blog/"
+    nav_order: 6
       
 plugins:
   - jekyll-paginate
