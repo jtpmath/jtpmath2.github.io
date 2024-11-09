@@ -1,12 +1,12 @@
 ---
 title: "First Blog Post"
 date: 2024-11-08
-excerpt: "This is a preview of the first post."
 layout: default
 parent: "Blog"
 nav_order: 1
 permalink: /blog/first-blog-post/
 ---
+
 
 # First Blog Post
 **Date:** November 8, 2024
