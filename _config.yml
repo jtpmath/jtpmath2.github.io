@@ -16,12 +16,20 @@ collections:
     output: true
     permalink: /blog/:path/
 
+# Add a default configuration for Blog.md
 defaults:
   - scope:
       path: "blog"
     values:
       layout: "default"
       parent: "Blog"
+  - scope:
+      path: ""
+      type: blog
+    values:
+      layout: default
+      nav_order: 6  # Adjust this order as needed
+
       
 plugins:
   - jekyll-paginate
